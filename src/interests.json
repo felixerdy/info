@@ -1,0 +1,30 @@
+[
+  {
+    "name": "HTML",
+    "cssClassName": "devicons devicons-html5"
+  },
+  {
+    "name": "CSS",
+    "cssClassName": "devicons devicons-css3"
+  },
+  {
+    "name": "HTML",
+    "cssClassName": "devicons devicons-nodejs_small"
+  },
+  {
+    "name": "React / React Native",
+    "cssClassName": "devicons devicons-react"
+  },
+  {
+    "name": "node.js",
+    "cssClassName": "devicons devicons-nodejs"
+  },
+  {
+    "name": "AWS",
+    "cssClassName": "devicons devicons-aws"
+  },
+  {
+    "name": "Sass",
+    "cssClassName": "devicons devicons-sass"
+  }
+]
