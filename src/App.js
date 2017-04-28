@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import ProfileImage from './Components/ProfileImage.js'
-import './App.css';
+import Interests from './Components/Interests.js'
+
+import './style/App.css';
 
 import ProfilePicturePath from './Images/profile.jpg';
 
@@ -14,6 +16,7 @@ class App extends Component {
         </div>
         <p className="App-intro">
           Welcome to my page.
+          <Interests />
         </p>
       </div>
     );
