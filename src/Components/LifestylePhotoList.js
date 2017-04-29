@@ -7,11 +7,11 @@ import SquareImage from './SquareImage.js'
 class LifestylePhotoList extends Component {
   render() {
     var queries = [{
-      columns: 2,
-      query: 'min-width: 670px'
+      columns: 1,
+      query: 'min-width: 0px'
     }, {
       columns: 3,
-      query: 'min-width: 1000px'
+      query: 'min-width: 670px'
     }];
     return (
       <div>
