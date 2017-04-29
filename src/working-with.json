@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Atom",
+    "cssClassName": "devicons devicons-atom"
+  },
+  {
+    "name": "Terminal",
+    "cssClassName": "devicons devicons-terminal_badge"
+  },
+  {
+    "name": "GitHub",
+    "cssClassName": "devicons devicons-github_badge"
+  },
+  {
+    "name": "macOS",
+    "cssClassName": "devicons devicons-apple"
+  },
+  {
+    "name": "Android",
+    "cssClassName": "devicons devicons-android"
+  }
+]

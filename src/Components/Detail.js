@@ -3,7 +3,7 @@ import './../style/InterestDetail.css';
 import './../style/devicons.css';
 
 
-class InterestDetail extends Component {
+class Detail extends Component {
 
   render() {
     return (
@@ -15,4 +15,4 @@ class InterestDetail extends Component {
   }
 }
 
-export default InterestDetail;
+export default Detail;
