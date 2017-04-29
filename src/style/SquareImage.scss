@@ -1,0 +1,26 @@
+.image-container {
+  position: relative;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.bold {
+  font-size: 3em;
+  font-weight: bold;
+  text-decoration: overline;
+  color: white;
+}
+
+.square {
+  width: 100%;
+  filter: sepia(40%);
+}
+
+.square:hover {
+  filter: none;
+}
