@@ -16,7 +16,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <CircularImage path='./../Images/profile.jpg' />
+          <CircularImage path='./Images/profile.jpg' />
           <h1>&lt; Hey, I'm Felix &gt;</h1>
         </div>
         <div className="tech-details">

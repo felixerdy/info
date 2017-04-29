@@ -1,17 +1,17 @@
 [
   {
     "name": "Gliding",
-    "image": "./../Images/gliding.jpg",
-    "imageSquare": "./../Images/gliding_square.jpg"
+    "image": "./Images/gliding.jpg",
+    "imageSquare": "./Images/gliding_square.jpg"
   },
   {
     "name": "Exploring",
-    "image": "./../Images/exploring.jpg",
-    "imageSquare": "./../Images/exploring_square.jpg"
+    "image": "./Images/exploring.jpg",
+    "imageSquare": "./Images/exploring_square.jpg"
   },
   {
     "name": "Developing",
-    "image": "./../Images/developing.jpg",
-    "imageSquare": "./../Images/developing_square.jpg"
+    "image": "./Images/developing.jpg",
+    "imageSquare": "./Images/developing_square.jpg"
   }
 ]
