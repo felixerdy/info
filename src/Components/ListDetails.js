@@ -8,9 +8,16 @@ class ListDetails extends Component {
 
 
   render() {
+    var queries = [{
+      columns: 3,
+      query: 'min-width: 670px'
+    }, {
+      columns: 4,
+      query: 'min-width: 1000px'
+    }];
     return (
       <div>
-        <Columns columns={5}>
+        <Columns queries={queries}>
             {this.props.techFile.map((elem, index) => {
                 return <Detail key={index} name={elem.name} cssClassName={elem.cssClassName}></Detail>
             })}
