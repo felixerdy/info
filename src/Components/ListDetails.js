@@ -19,7 +19,10 @@ class ListDetails extends Component {
       <div>
         <Columns queries={queries}>
             {this.props.techFile.map((elem, index) => {
+              if(elem.cssClassName)
                 return <Detail key={index} name={elem.name} cssClassName={elem.cssClassName}></Detail>
+              else
+                return <Detail key={index} name={elem.name} icon={elem.icon}></Detail>
             })}
         </Columns>
       </div>

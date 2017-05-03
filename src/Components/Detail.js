@@ -6,12 +6,21 @@ import './../style/devicons.css';
 class Detail extends Component {
 
   render() {
-    return (
-      <div className="interest-detail">
-        <i className={`${this.props.cssClassName} interest-icon`} />
-        <h3>{ this.props.name }</h3>
-      </div>
-    );
+    if(this.props.cssClassName) {
+      return (
+        <div className="interest-detail">
+          <div className={`${this.props.cssClassName} interest-icon`} />
+          <h3>{ this.props.name }</h3>
+        </div>
+      );
+    } else {
+      return (
+        <div className="interest-detail">
+          <img src={this.props.icon} />
+          <h3>{ this.props.name }</h3>
+        </div>
+      );
+    }
   }
 }
 

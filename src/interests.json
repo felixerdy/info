@@ -26,5 +26,9 @@
   {
     "name": "Sass",
     "cssClassName": "devicons devicons-sass"
+  },
+  {
+    "name": "Arduino",
+    "icon": "./Images/Arduino.svg"
   }
 ]
