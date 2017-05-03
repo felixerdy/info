@@ -24,11 +24,12 @@
 .about-me {
   padding-bottom: 50px;
   padding-top: 40px;
+
+  margin-left: 25%;
+  margin-right: 25%;
 }
 .about-me > p {
   font-size: 1.3em;
-  margin-left: 25%;
-  margin-right: 25%;
   text-align: justify;
 }
 
@@ -42,4 +43,10 @@
   text-decoration: none;
   box-shadow: inset 0 0px 0 white, inset 0 -10px 0 $middleLightGreen;
   color: inherit;
+}
+
+.contact-icon{
+  font-size: 4em;
+  color: $darkBlue;
+  text-decoration: none;
 }
