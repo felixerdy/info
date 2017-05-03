@@ -20,3 +20,26 @@
   padding: 20px;
   color: white;
 }
+
+.about-me {
+  padding-bottom: 50px;
+  padding-top: 40px;
+}
+.about-me > p {
+  font-size: 1.3em;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: justify;
+}
+
+.about-me > p > a{
+  text-decoration: none;
+  box-shadow: inset 0 0px 0 white, inset 0 -10px 0 lighten($middleLightGreen, 8);
+  color: inherit;
+}
+
+.about-me > p > a:hover{
+  text-decoration: none;
+  box-shadow: inset 0 0px 0 white, inset 0 -10px 0 $middleLightGreen;
+  color: inherit;
+}
