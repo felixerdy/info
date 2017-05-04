@@ -24,7 +24,7 @@ class App extends Component {
           <h1>About me</h1>
           <hr width="100px;"></hr>
           <p>
-            Hey, I am Felix and I am living in <a href="https://www.google.de/maps/place/Münster">Münster, Germany 🚲🌧️</a>. I am studying Geoinformatics 🌍💻 at the <a href="https://www.uni-muenster.de/Geoinformatics/en/">Institute for Geoinformatics</a>. Besides that, I am working in the <a href="https://sensebox.de/en/">senseBox</a> team, where I work on a new website, on Arduino projects or do workshops with pupils. I like to work on frontend projects but I am also interested in backend technologies.
+            Hey, I am Felix and I am living in <a href="https://www.google.de/maps/place/Münster">Münster, Germany 🚲🌧️</a>. I am studying Geoinformatics 🌍💻 at the <a href="https://www.uni-muenster.de/Geoinformatics/en/">Institute for Geoinformatics</a>. Besides that, I am working in the <a href="https://sensebox.de/en/">senseBox</a> team, where I work on a new website, on Arduino projects or do workshops with school kids. I like to work on frontend projects but I am also interested in backend technologies.
           </p>
           <p>
             In my freetime I enjoy <a href="https://skylines.aero/users/999">gliding ✈️</a>, riding my bicycle 🚲 or exploring new things.
