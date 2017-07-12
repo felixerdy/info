@@ -1,17 +1,14 @@
 [
   {
     "name": "Gliding",
-    "image": "./Images/gliding.jpg",
-    "imageSquare": "./Images/gliding_square.jpg"
+    "imageSquare": "./Images/gliding_square.png"
   },
   {
     "name": "Exploring",
-    "image": "./Images/exploring.jpg",
-    "imageSquare": "./Images/exploring_square.jpg"
+    "imageSquare": "./Images/exploring_square.png"
   },
   {
     "name": "Developing",
-    "image": "./Images/developing.jpg",
-    "imageSquare": "./Images/developing_square.jpg"
+    "imageSquare": "./Images/developing_square.png"
   }
 ]
