@@ -1,13 +1,5 @@
 [
   {
-    "name": "HTML",
-    "cssClassName": "devicons devicons-html5"
-  },
-  {
-    "name": "CSS",
-    "cssClassName": "devicons devicons-css3"
-  },
-  {
     "name": "JavaScript",
     "cssClassName": "devicons devicons-javascript"
   },
@@ -20,12 +12,16 @@
     "cssClassName": "devicons devicons-nodejs"
   },
   {
-    "name": "AWS",
-    "cssClassName": "devicons devicons-aws"
+    "name": "HTML",
+    "cssClassName": "devicons devicons-html5"
   },
   {
-    "name": "Sass",
-    "cssClassName": "devicons devicons-sass"
+    "name": "CSS",
+    "cssClassName": "devicons devicons-css3"
+  },
+  {
+    "name": "AWS",
+    "cssClassName": "devicons devicons-aws"
   },
   {
     "name": "Python",
